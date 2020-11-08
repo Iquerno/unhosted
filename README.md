@@ -1,5 +1,5 @@
 # UnHosted
-##### by @iquerno
+by @iquerno
 #
 #
 unhosted.ml is an online platform for file hosting and sharing. (More to come, hopefully.)
